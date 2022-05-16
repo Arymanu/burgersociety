@@ -1,0 +1,30 @@
+.nav-item{
+    padding-right :60px;
+    font-size: larger;
+    margin-right:70px;
+    
+}
+.nav-link:hover {
+    background-color: #071f1f;
+    color: pink;
+    transform: scale(1.5);
+  }
+.navbar{
+    height:20%;
+    
+}
+.image-thumbnail{
+  width:180px;
+  height: 150px;
+  float: left;
+  
+
+}
+h1{
+    font-size: 400%;
+}
+.text{
+
+    padding-top: 15%;
+
+}
